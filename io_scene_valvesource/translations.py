@@ -499,6 +499,9 @@ _data = {
 	'ru': "Пропуск вершинной анимации для группы «{0}», которую не удаётся слить в DMX-модель из-за огибающих. Проверьте, что у всей группы одна и та же кость-родитель или удалите все огибающие.",
 	'es': "",
 },
+'exporter_warn_source2names': {
+	'en': "Consider renaming \"{0}\": in Source 2, model names can contain only lower-case characters, digits, and/or underscores.",
+},
 'exporter_warn_unicode': {
 	'ja': "{0}「{1}」の名前はUnicode文字を含みます。間違ってコンパイルすることが可能です。",
 	'en': "Name of {0} \"{1}\" contains Unicode characters. This may not compile correctly!",
